@@ -15,15 +15,4 @@ You will use Data Catalog to search for existing datasets across projects and en
 Creating Tag Templates:
 You will create tag templates using Data Catalog to make data assets more meaningful and enable teams to use datasets more efficiently.
 
-🧠 Skills You Will Gain
-Using Data Catalog:
-Gain experience in discovering and tagging data assets using Data Catalog.
 
-Data Analysis with BigQuery:
-Develop skills in querying and analyzing datasets through BigQuery.
-
-Data Security and Access Management:
-Identify sensitive data and gain experience in securing it and managing access.
-
-Metadata Management:
-Learn to enrich datasets with meaningful metadata to improve clarity and accessibility of data assets.
